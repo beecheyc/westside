@@ -1,0 +1,46 @@
+.img-responsive {
+position: relative;
+
+width:100%;
+height: 100%;
+background-size: 100% 100%;
+}
+
+
+
+.beer {
+    font-size: 15px;
+}
+
+.about{
+    font-size: 18px;
+}
+
+.contact {
+    font-size: 20px;
+    padding-bottom: 10px;
+    text-align: center;
+    
+}
+
+.legend{
+    font-size: 20px;
+}
+
+.about_headers {
+    font-size: 22px;
+}
+
+.page{
+    border 1px;
+
+
+}
+
+.contact-head{
+    text-align: center;
+}
+
+.container {
+    padding-top: 40px;
+}
